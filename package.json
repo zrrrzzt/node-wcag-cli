@@ -49,7 +49,7 @@
     "localtunnel": "^1.7.0",
     "log-symbols": "^1.0.2",
     "minimist": "^1.2.0",
-    "protocolify": "^1.0.1",
+    "protocolify": "^2.0.0",
     "update-notifier": "^1.0.2",
     "verbalize": "^0.2.0",
     "wcag": "^0.2.2"
