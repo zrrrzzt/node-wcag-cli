@@ -52,7 +52,7 @@
     "protocolify": "^2.0.0",
     "update-notifier": "^2.0.0",
     "verbalize": "^0.2.0",
-    "wcag": "^0.2.2"
+    "wcag": "^0.3.0"
   },
   "devDependencies": {
     "coveralls": "^2.11.4",
